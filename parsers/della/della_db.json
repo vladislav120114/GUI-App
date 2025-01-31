@@ -1,0 +1,5627 @@
+{
+    "Cherkasy": {
+        "translated_name": "Черкассы",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Vinnytsia": {
+        "translated_name": "Винница",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    " Ivano-Frankivsk": {
+        "translated_name": "Ивано-Франковск",
+        "region": "Центральная Украина",
+        "oblast": "Ивано-Франковская область"
+    },
+    "Lubny": {
+        "translated_name": "Лубны",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Zvenyhorodka": {
+        "translated_name": "Звенигородка",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Kyiv": {
+        "translated_name": "Киев",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Brovary": {
+        "translated_name": "Бровары",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Poltava": {
+        "translated_name": "Полтава",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Pyriatyn": {
+        "translated_name": "Пирятин",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Yahotyn": {
+        "translated_name": "Яготин",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Hlyboka Balka": {
+        "translated_name": "Глубокая Балка",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Studena": {
+        "translated_name": "Студёная",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Lokhvytsya": {
+        "translated_name": "Лохвица",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Boryspil": {
+        "translated_name": "Борисполь",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Malyn": {
+        "translated_name": "Малин",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Obukhiv": {
+        "translated_name": "Обухов",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    " Pavlohrad": {
+        "translated_name": "Павлоград",
+        "region": "Центральная Украина",
+        "oblast": "Днепропетровская область"
+    },
+    " Zin'kiv": {
+        "translated_name": "Зеньков",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+     " Zinkiv ": {
+        "translated_name": "Зеньков",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    " Dnipro": {
+        "translated_name": "Днепр",
+        "region": "Центральная Украина",
+        "oblast": "Днепропетровская область"
+    },
+    "Zin'kiv": {
+        "translated_name": "Зиньков",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Belaya Tserkov": {
+        "translated_name": "Белая Церковь",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Novoorzhyts'ke": {
+        "translated_name": "Новооржицкое",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Moshny": {
+        "translated_name": "Мошны",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Kalynivka": {
+        "translated_name": "Калиновка",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    " Bilohorodka": {
+        "translated_name": "Белогородка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Vyshhorod": {
+        "translated_name": "Вышгород",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    " Nemishajeve": {
+        "translated_name": "Немешаево",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Skvyra": {
+        "translated_name": "Сквира",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Zhytomyr": {
+        "translated_name": "Житомир",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Tyvriv": {
+        "translated_name": "Тывров",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Stryzhivka": {
+        "translated_name": "Стрижевка",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Ivano-Frankivsk": {
+        "translated_name": "Ивано-Франковск",
+        "region": "Центральная Украина",
+        "oblast": "Ивано-Франковская область"
+    },
+    " Vinnytsia": {
+        "translated_name": "Винница",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Hnivan": {
+        "translated_name": "Гнивань",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Kryzhopil'": {
+        "translated_name": "Крыжополь'",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Dzhulynka": {
+        "translated_name": "Джулинка",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Zviahel": {
+        "translated_name": "Новоград-Волынский",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Fastiv": {
+        "translated_name": "Фастов",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Vasylkiv": {
+        "translated_name": "Васильков",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    " Martusivka": {
+        "translated_name": "Мартусовка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Kremenchug": {
+        "translated_name": "Кременчуг",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Kozhanka": {
+        "translated_name": "Кожанка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Olshanitsa": {
+        "translated_name": "Ольшаница",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+       "Bilohorodka": {
+        "translated_name": "Белогородка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Korosten": {
+        "translated_name": "Коростень",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Tarashcha": {
+        "translated_name": "Тараща",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Kashperivka": {
+        "translated_name": "Кашперовка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Kryukivshchyna": {
+        "translated_name": "Крюковщина",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Hadyach": {
+        "translated_name": "Гадяч",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Uman'": {
+        "translated_name": "Умань",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Mliiv": {
+        "translated_name": "Млиев",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Sofiivs'ka Borshchahivka": {
+        "translated_name": "Софиевская Борщаговка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Orikhivka": {
+        "translated_name": "Ореховка",
+        "region": "Центральная Украина",
+        "oblast": "Луганская область"
+    },
+    "Kropyvnytskiy": {
+        "translated_name": "Кропивницкий",
+        "region": "Центральная Украина",
+        "oblast": "Кировоградская область"
+    },
+    "Irpin'": {
+        "translated_name": "Ирпень",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Uzyn": {
+        "translated_name": "Узин",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Kryvets'": {
+        "translated_name": "Кривец",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Vorzel'": {
+        "translated_name": "Ворзель",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Man'kivka": {
+        "translated_name": "Маньковка",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    " Kryvyi Rih": {
+        "translated_name": "Кривой Рог",
+        "region": "Центральная Украина",
+        "oblast": "Днепропетровская область"
+    },
+    "Hlobyne": {
+        "translated_name": "Глобино",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Fursy": {
+        "translated_name": "Фурсы",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Lypovets'": {
+        "translated_name": "Липовец",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Ternivshchyna": {
+        "translated_name": "Терновщина",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Chervona Polyana": {
+        "translated_name": "Червоная Поляна",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Skybyn": {
+        "translated_name": "Скайбин",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Lyubar": {
+        "translated_name": "Любар",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Holovenka": {
+        "translated_name": "Головенка",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Vita-Poshtova": {
+        "translated_name": "Вита-Почтовая",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Podillya": {
+        "translated_name": "Подолье",
+        "region": "Центральная Украина",
+        "oblast": "Ивано-Франковская область"
+    },
+    "Ukrainka": {
+        "translated_name": "Украинка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Vasylivka": {
+        "translated_name": "Василевка",
+        "region": "Центральная Украина",
+        "oblast": "Одесская область"
+    },
+    "Boyarka": {
+        "translated_name": "Боярка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+        " Zhmerynka": {
+        "translated_name": "Жмеринка",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Zarichka": {
+        "translated_name": "Заречка",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Kamianka": {
+        "translated_name": "Каменка",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Nekrasove": {
+        "translated_name": "Некраасово ",
+        "region": "Центральная Украина",
+        "oblast": "Винницкая область"
+    },
+    "Valyava": {
+        "translated_name": "Валява",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Ryzhany": {
+        "translated_name": "Рыжаны",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Kozyn": {
+        "translated_name": "Козин",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Kaharlyk": {
+        "translated_name": "Кагарлык",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Velyka Bahachka": {
+        "translated_name": "Великая Багачка",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Velyka Dymerka": {
+        "translated_name": "Великая Дымерка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Vyshneve": {
+        "translated_name": "Вишневое",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Makariv": {
+        "translated_name": "Макаров",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Berezan": {
+        "translated_name": "Березань",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Zhabotyn": {
+        "translated_name": "Жаботин",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Zolotonosha": {
+        "translated_name": "Золотоноша",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Yasnohorodka": {
+        "translated_name": "Ясногородка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Pomichna": {
+        "translated_name": "Помошная",
+        "region": "Центральная Украина",
+        "oblast": "Кировоградская область"
+    },
+    "Horodyshche": {
+        "translated_name": "Городище",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Smila": {
+        "translated_name": "Смела",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Balakliya": {
+        "translated_name": "Балаклея",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Hostomel'": {
+        "translated_name": "Гостомель",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Odessa": {
+        "translated_name": "Одесса",
+        "region": "Центральная Украина",
+        "oblast": "Одесская область"
+    },
+    " Zhashkiv": {
+        "translated_name": "Жашков",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Martusivka": {
+        "translated_name": "Мартусовка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Drabiv": {
+        "translated_name": "Драбов",
+        "region": "Центральная Украина",
+        "oblast": "Черкасская область"
+    },
+    "Bucha": {
+        "translated_name": "Буча",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Hatne": {
+        "translated_name": "Гатное",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Vlasivka": {
+        "translated_name": "Власовка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Ivankovychi": {
+        "translated_name": "Иванковичи",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    " Kyiv": {
+        "translated_name": "Киев",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Fedunka": {
+        "translated_name": "Федунка",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Halyave": {
+        "translated_name": "Галяво",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Mala Vil'shanka": {
+        "translated_name": "Малая Ольшанка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Dymer": {
+        "translated_name": "Дымер",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Mamryn": {
+        "translated_name": "Мамрин",
+        "region": "Центральная Украина",
+        "oblast": "Житомирская область"
+    },
+    "Chubyns'ke": {
+        "translated_name": "Чубинское",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Suprunivka": {
+        "translated_name": "Супруновка",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Piskivka": {
+        "translated_name": "Песковка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    " Kaharlyk": {
+        "translated_name": "Кагарлык",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Kopyly": {
+        "translated_name": "Копылы",
+        "region": "Центральная Украина",
+        "oblast": "Полтавская область"
+    },
+    "Kuz'myntsi": {
+        "translated_name": "Кузьминцы",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Khodosivka": {
+        "translated_name": "Ходосовка",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Semypolky": {
+        "translated_name": "Семипольский",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Hlevakha": {
+        "translated_name": "Расслабляться",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Dudarkiv": {
+        "translated_name": "Архив Дуды",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Seagulls": {
+        "translated_name": "Чайки",
+        "region": "Центральная Украина",
+        "oblast": "Киевская область"
+    },
+    "Korostyshiv": {
+        "translated_name": "Акцент",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mohyliv-Podilskyi": {
+        "translated_name": "Моглив-Подилский",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Berdychiv": {
+        "translated_name": "Berdychiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vil's'k": {
+        "translated_name": "Уилл'ск",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Dzenzelivka": {
+        "translated_name": "Дзензеловка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Horoshiv": {
+        "translated_name": "Horoshiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Borodyanka": {
+        "translated_name": "Borodyanka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Radomyshl": {
+        "translated_name": "Радомышль",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Pervomaisk": {
+        "translated_name": "Первомайск",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Mykolaiv": {
+        "translated_name": "Mykolaiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mohyl'ne": {
+        "translated_name": "Mohyl'ne",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Svitlovodsk": {
+        "translated_name": "Светловодск",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ladyzhyn": {
+        "translated_name": "Ladyzhyn",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Khmelnytskyi": {
+        "translated_name": "Хмельницкий",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Antoniny": {
+        "translated_name": "Антонина",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pokrovs'ke": {
+        "translated_name": "Покрова",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kremenchug": {
+        "translated_name": "Кременчуг",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Raihorod": {
+        "translated_name": "Птицы-носороги",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Nove": {
+        "translated_name": "Новые",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Khrystynivka": {
+        "translated_name": "Khrystynivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Luts'k": {
+        "translated_name": "Луцк",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Nestervarka": {
+        "translated_name": "Нестерварка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Haisyn": {
+        "translated_name": "я чувствую запах",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bershad": {
+        "translated_name": "Бершадь",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Dovzhyk": {
+        "translated_name": "Довжик",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Volodarka": {
+        "translated_name": "Volodarka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Tulchyn": {
+        "translated_name": "Тульчин",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Chudniv": {
+        "translated_name": "Чуднов",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Sharhorod": {
+        "translated_name": "Шаргород",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novoukrainka": {
+        "translated_name": "Новоукраинка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Rudnya-Horodyshche": {
+        "translated_name": "Рудня-Хородышче",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyka Khaicha": {
+        "translated_name": "Velyka Khaicha",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Holovanivs'k": {
+        "translated_name": "Головановск",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novi Sanzhary": {
+        "translated_name": "Новые Санжары",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kyiv region.": {
+        "translated_name": "Киевская область.",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Zhytomyr": {
+        "translated_name": "Житомир",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Yampil": {
+        "translated_name": "Ямполь",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kaniv": {
+        "translated_name": "Kaniv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Yerky": {
+        "translated_name": "Йерки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Balanivka": {
+        "translated_name": "Балановка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Ladyzhyn": {
+        "translated_name": "Ladyzhyn",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Znamenka": {
+        "translated_name": "цифра",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Vyshneve": {
+        "translated_name": "Vyshneve",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Slavutych": {
+        "translated_name": "Славутых",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Chernihiv": {
+        "translated_name": "Чернихив",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zol'nya": {
+        "translated_name": "Золя",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Olevs'k": {
+        "translated_name": "Олевск",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novohrad-Volynskyi": {
+        "translated_name": "Новоград-Волынский",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Havronshchyna": {
+        "translated_name": "Havronshchyna",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Dudarkiv": {
+        "translated_name": "Архив Дуды",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Mala Pereshchepyna": {
+        "translated_name": "Mala Перешпипына",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hlyboke": {
+        "translated_name": "Hlyboke",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Sumy": {
+        "translated_name": "Суммы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Rokytne": {
+        "translated_name": "Рокитное",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zdobutok Zhovtnya": {
+        "translated_name": "Zdobutok Жовтния",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kvitneve": {
+        "translated_name": "Цветущий",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hoholiv": {
+        "translated_name": "Hoholiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vatutine": {
+        "translated_name": "Ватутин",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kobelyaky": {
+        "translated_name": "Kobelyaky",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Horishni Plavni": {
+        "translated_name": "Горишние Плавни",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Seleshchyna": {
+        "translated_name": "Seleshchyna",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Bazylivshchyna": {
+        "translated_name": "Базильовщина",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Krasnohrad": {
+        "translated_name": "Краснограды",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Staryi Merchyk": {
+        "translated_name": "Staryi Merchyk",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Romanivka": {
+        "translated_name": "Романовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pryyutivka": {
+        "translated_name": "Приютивка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Myrhorod": {
+        "translated_name": "Миргород",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Shchaslyve": {
+        "translated_name": "Shchaslyve",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Belaya Tserkov": {
+        "translated_name": "Belaya Tserkov",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ovruch": {
+        "translated_name": "Овруч",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Hryhorivka": {
+        "translated_name": "Hryhorivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyki Korovyntsi": {
+        "translated_name": "Велики Коровинци",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Satanivka": {
+        "translated_name": "Сатановка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mazynky": {
+        "translated_name": "Мазынки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Murovani Kurylivtsi": {
+        "translated_name": "Муровани Куриловцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Malynivka": {
+        "translated_name": "Малиновка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Berdychiv": {
+        "translated_name": "Berdychiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bilokorovychi": {
+        "translated_name": "Белокоровичи",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hlukhivtsi": {
+        "translated_name": "Глуховцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kozova": {
+        "translated_name": "Козова",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Yares'ky": {
+        "translated_name": "Yares'ky",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Chaiky": {
+        "translated_name": "Chaiky",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Polyanets'ke": {
+        "translated_name": "Polyanets'ke",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Stetsivka": {
+        "translated_name": "Stetsivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zhmerynka": {
+        "translated_name": "Zhmerynka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kalynivka": {
+        "translated_name": "Калиновка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Dykan'ka": {
+        "translated_name": "Ну давай же",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kropyvnytskiy": {
+        "translated_name": "Kropyvnytskiy",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Oleksandriia": {
+        "translated_name": "Oleksandriia",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Rybchyntsi": {
+        "translated_name": "Рыбчинцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Selyshche": {
+        "translated_name": "Selyshche",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kahamlyk": {
+        "translated_name": "Кахамлык",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kornyn": {
+        "translated_name": "Корни",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Opishnya": {
+        "translated_name": "Opishnya",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Dovbysh": {
+        "translated_name": "Довбыш",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kherson": {
+        "translated_name": "Херсон",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Krasnogorovka": {
+        "translated_name": "Krasnogorovka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Burty": {
+        "translated_name": "Стороны",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "V'yazivok": {
+        "translated_name": "V'yazivok",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Sutysky": {
+        "translated_name": "Сутиский",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ходосеевка": {
+        "translated_name": "Ходосеевка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vasilki": {
+        "translated_name": "Vasilki",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Stryzhavka": {
+        "translated_name": "Стрижавка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Mahnivka": {
+        "translated_name": "Махновка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Koziatyn": {
+        "translated_name": "Koziatyn",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Khorol": {
+        "translated_name": "Khorol",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Poltava": {
+        "translated_name": "Полтава",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Narodychi": {
+        "translated_name": "Narodychi",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Voron'ky": {
+        "translated_name": "Voron'ky",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novi Petrivtsi": {
+        "translated_name": "Новые Петровцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Khyzhivka": {
+        "translated_name": "Хиживка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyka Rublivka": {
+        "translated_name": "Большая Rublivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Olyanitsa": {
+        "translated_name": "Olyanitsa",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Myronivka": {
+        "translated_name": "Мироновка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyka Oleksandrivka": {
+        "translated_name": "Большая Олександривка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Obodivka": {
+        "translated_name": "Обе стороны",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bobrynets'": {
+        "translated_name": "Бобринец'",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Borova": {
+        "translated_name": "Сосны",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vyrishal'ne": {
+        "translated_name": "Вирисхальне",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Lokhvytsya": {
+        "translated_name": "Лохвитя",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kotsyubyns'ke": {
+        "translated_name": "Kotsyubyns'ke",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Voitovca": {
+        "translated_name": "Voitovca",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Sviatopetrivske": {
+        "translated_name": "Святопетровское",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Khomivka": {
+        "translated_name": "Khomivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Petropavlivs'ka Borshchahivka": {
+        "translated_name": "Петропавловская Борщаговка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Buky": {
+        "translated_name": "Буковые деревья",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Chutove": {
+        "translated_name": "Вкусный",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bilyky": {
+        "translated_name": "Белики",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bubnivs'ka Slobidka": {
+        "translated_name": "Bubnivska Slobidka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hel'myaziv": {
+        "translated_name": "Гельмязив",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Noryns'k": {
+        "translated_name": "Норинск",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bihun'": {
+        "translated_name": "Вермишель'",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Stavyshche": {
+        "translated_name": "Stavyshche",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Irkliiv": {
+        "translated_name": "Зыбучие пески",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Mistky": {
+        "translated_name": "Мистки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Nova Haleshchyna": {
+        "translated_name": "Новая Халещина",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mechyslavka": {
+        "translated_name": "Мечиславка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Lukashivka": {
+        "translated_name": "Лукашовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bernashivka": {
+        "translated_name": "Бернашивка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kyyashky": {
+        "translated_name": "Кияшки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Hlobyne": {
+        "translated_name": "Hlobyne",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Khorol": {
+        "translated_name": "Khorol",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Dobrovody": {
+        "translated_name": "Dobrovody",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Chortkiv": {
+        "translated_name": "Чортков",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kolomyia": {
+        "translated_name": "Коломыя",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kapitanivka": {
+        "translated_name": "Капитановка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novomyrhorod": {
+        "translated_name": "Новомиргород",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hrushka": {
+        "translated_name": "Грушка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Sonyachne": {
+        "translated_name": "Sonyachne",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Osykovyi Kopets'": {
+        "translated_name": "Осыковый Копец",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ol'hopil'": {
+        "translated_name": "Ольхополь",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Tulchyn": {
+        "translated_name": "Тульчин",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Smolivka": {
+        "translated_name": "Смоловка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Haivoron": {
+        "translated_name": "Гайворон",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Levkiv": {
+        "translated_name": "Левков",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Teplyk": {
+        "translated_name": "Теплик",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Bershad": {
+        "translated_name": "Бершадь",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Myrolyubiv": {
+        "translated_name": "Myrolyubiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Krasylivka": {
+        "translated_name": "Krasylivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Shkarivka": {
+        "translated_name": "Шкаровка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pochuiky": {
+        "translated_name": "Pochuiky",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bortnichi": {
+        "translated_name": "Бортничи",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hromada": {
+        "translated_name": "Куча",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kyrnasivka": {
+        "translated_name": "Кирнавиво",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Usivka": {
+        "translated_name": "Усовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Myroslavka": {
+        "translated_name": "Myroslavka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Parkhomivka": {
+        "translated_name": "Пархомовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hrechana Hreblya": {
+        "translated_name": "Hrechana Hreblya",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Prolisky": {
+        "translated_name": "Пролиски",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Lityn": {
+        "translated_name": "Горит",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vyshcha Dubechnya": {
+        "translated_name": "Высшая Dubechnya",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Babychivka": {
+        "translated_name": "Бабычевка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Olhovets": {
+        "translated_name": "Ольховец",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Uyaryntsi": {
+        "translated_name": "Уаринцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zhashkiv": {
+        "translated_name": "Жашков",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Dubova": {
+        "translated_name": "Дубова",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Peremoha": {
+        "translated_name": "Перемоха",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Khmil'nytsya": {
+        "translated_name": "Хмилиньты",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Peremoha": {
+        "translated_name": "Перемоха",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Prystromy": {
+        "translated_name": "Prystromy",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Trakhtemyriv": {
+        "translated_name": "Трахтемиров",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mostyshche": {
+        "translated_name": "Mostyshche",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Baryshivka": {
+        "translated_name": "Baryshivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Brovary": {
+        "translated_name": "Brovary",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bar": {
+        "translated_name": "Бар",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Orshanets'": {
+        "translated_name": "Orshanets'",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Savyntsi": {
+        "translated_name": "Савинцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Lychanka": {
+        "translated_name": "Лычанка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hruz'ke": {
+        "translated_name": "Грузьское",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ruzhyn": {
+        "translated_name": "Ружин",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Skorohodovo": {
+        "translated_name": "Скороходово",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Baryshivka": {
+        "translated_name": "Baryshivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vil'shana": {
+        "translated_name": "Уилл'шана",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Stanishevka": {
+        "translated_name": "Станишевка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Konotop": {
+        "translated_name": "Конотоп",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zhurivka": {
+        "translated_name": "Журовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pohrebyshche": {
+        "translated_name": "Погребище",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vodyane": {
+        "translated_name": "Vodane",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Chernyakhiv": {
+        "translated_name": "Chernyakhiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Korzhi": {
+        "translated_name": "Коржи",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Savluky": {
+        "translated_name": "Савлуки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pulyny": {
+        "translated_name": "Pulyny",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Chernyatyn": {
+        "translated_name": "Chernyatyn",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pereiaslav-Khmelnytskyi": {
+        "translated_name": "Переяслав-Хмельницкий",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hryhorivka": {
+        "translated_name": "Hryhorivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Lysycha Balka": {
+        "translated_name": "Lysycha Balka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mykhailivka": {
+        "translated_name": "Михайловка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Fastiv": {
+        "translated_name": "Fastiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Luka-Meleshkivs'ka": {
+        "translated_name": "Лука-Мелешковская",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vinnyts'ki Khutory": {
+        "translated_name": "Vinnyts'ki Khutory",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vapnyarka": {
+        "translated_name": "Vapnyarka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Nemyriv": {
+        "translated_name": "Немиров",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Tomashpil'": {
+        "translated_name": "Tomashpil'",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Harmaky": {
+        "translated_name": "Хармаки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vendychany": {
+        "translated_name": "Вендичаны",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bokhonyky": {
+        "translated_name": "Бохоники",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ahronomichne": {
+        "translated_name": "Ahronomichne",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Chechel'nyk": {
+        "translated_name": "Чеченский",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pohreby": {
+        "translated_name": "Похороны",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Nemishajeve": {
+        "translated_name": "С бритьем",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Skvyra": {
+        "translated_name": "Сквирра",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Nova Praha": {
+        "translated_name": "Новая Прага",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Dolynivka": {
+        "translated_name": "Долиновка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zazymie": {
+        "translated_name": "Зазым",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Brailiv": {
+        "translated_name": "Браилёв",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Teterivka": {
+        "translated_name": "Тетеровка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Tarasivka": {
+        "translated_name": "Тарасовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novoarkhanhel's'k": {
+        "translated_name": "Novoarkhanhel's'k",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Andrushivka": {
+        "translated_name": "Андрушевка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Rivne": {
+        "translated_name": "Rivne",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Dibrova": {
+        "translated_name": "Диброва",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Stara Pryluka": {
+        "translated_name": "Stara Pryluka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pavelky": {
+        "translated_name": "Павелкий",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Sorokotyaha": {
+        "translated_name": "Сорокотяха",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Stepanky": {
+        "translated_name": "Степанки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ivankiv": {
+        "translated_name": "Иванков",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bohdanivka": {
+        "translated_name": "Богдановка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Malovodyane": {
+        "translated_name": "Маловодяне",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Koshmanivka": {
+        "translated_name": "Koshmanivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vil'kha": {
+        "translated_name": "Вильха",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Nova Hreblya": {
+        "translated_name": "Новая Гребля",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Klepachi": {
+        "translated_name": "Клепачи",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Blystavytsya": {
+        "translated_name": "Блыставица",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kharkivtsi": {
+        "translated_name": "Харьковцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Borodyanka": {
+        "translated_name": "Borodyanka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Lyubartsi": {
+        "translated_name": "Любарцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pustovarivka": {
+        "translated_name": "Пустоваровка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kamianets-Podilskyi": {
+        "translated_name": "Каменец-Подольский",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kamianets-Podilskyi": {
+        "translated_name": "Каменец-Подольский",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Malopolovets'ke": {
+        "translated_name": "Малополовецкое",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Les'ky": {
+        "translated_name": "Леський",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mykulyntsi": {
+        "translated_name": "Микулинцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kozyn": {
+        "translated_name": "Козин",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Yurkivka": {
+        "translated_name": "Юрковка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Rogachiv": {
+        "translated_name": "Рогачев",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyka Buhaivka": {
+        "translated_name": "Большая Бухаевка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Berezivka": {
+        "translated_name": "Березовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Birky": {
+        "translated_name": "Бирки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Voronovytsya": {
+        "translated_name": "Вороноваться",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Byshiv": {
+        "translated_name": "Byshiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Stari Petrivtsi": {
+        "translated_name": "Stari Petrivtsi",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ruchky": {
+        "translated_name": "Ruchky",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Sumy": {
+        "translated_name": "Суммы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Boryspil": {
+        "translated_name": "Борисполь",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Monastyryshche": {
+        "translated_name": "Monastyryshche",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyka Sevastyanivka": {
+        "translated_name": "Большая Севостияновка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Lypnyky": {
+        "translated_name": "Мигать",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Odessa": {
+        "translated_name": "Одесса",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Litky": {
+        "translated_name": "Телята",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Shcherbani": {
+        "translated_name": "Shcherbani",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Yemchykha": {
+        "translated_name": "Емкиха",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bolyachiv": {
+        "translated_name": "Bolyachiv",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zhdanivka": {
+        "translated_name": "Zhdanivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vrublivka": {
+        "translated_name": "Врубловка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Romanov": {
+        "translated_name": "Романов",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novosilky": {
+        "translated_name": "Новосилки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ivanivka": {
+        "translated_name": "Ивановка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Korosten": {
+        "translated_name": "Korosten",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Zarvantsi": {
+        "translated_name": "Зарванци",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ruda": {
+        "translated_name": "Коричневый",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Deremezna": {
+        "translated_name": "Деремезна",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Lopatychi": {
+        "translated_name": "Лопатичи",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyka Karatul'": {
+        "translated_name": "Velyka Karatul'",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Vil'shanka": {
+        "translated_name": "Вильшанка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Poberezhka": {
+        "translated_name": "Poberezhka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Baranivka": {
+        "translated_name": "Барановка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Turbiv": {
+        "translated_name": "турбулентный",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Karlivka": {
+        "translated_name": "Карловка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kharkiv": {
+        "translated_name": "Харьков",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Seleshchyna": {
+        "translated_name": "Seleshchyna",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kodnya": {
+        "translated_name": "Код",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Kam'yanyi Brid": {
+        "translated_name": "Kam'anyi Brid",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Znamenka": {
+        "translated_name": "цифра",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Mykhnivtsi": {
+        "translated_name": "Mykhnivtsi",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Demivshchyna": {
+        "translated_name": "Demivshchyna",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kam'yanyi Brid": {
+        "translated_name": "Kam'anyi Brid",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Maskivtsi": {
+        "translated_name": "Масковцы",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mlyny": {
+        "translated_name": "Миллс",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "P'yatka": {
+        "translated_name": "Пьятка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Holovyne": {
+        "translated_name": "Холовин",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pancheve": {
+        "translated_name": "Панчеве",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Obukhivka": {
+        "translated_name": "Obukhivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ярышов": {
+        "translated_name": "Ярышов",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Ustymivka": {
+        "translated_name": "Ustymivka",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Novoselivka": {
+        "translated_name": "Новоселовка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Bratslav": {
+        "translated_name": "Bratslav",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Trostyanets'": {
+        "translated_name": "Trostyanets'",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Koziatyn": {
+        "translated_name": "Koziatyn",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Myla": {
+        "translated_name": "Майла",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Snitkiv": {
+        "translated_name": "Режущий диск",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Velyka Tsvilya": {
+        "translated_name": "Velyka Tsvilya",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Sukachi": {
+        "translated_name": "Сукачи",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Klavdijevo-Tarasove": {
+        "translated_name": "Клавдиево-Тарасов",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Hora": {
+        "translated_name": "Время",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Mykhnivtsi": {
+        "translated_name": "Mykhnivtsi",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Popravka": {
+        "translated_name": "Ремонт",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Berezotocha": {
+        "translated_name": "Berezotocha",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " L'viv": {
+        "translated_name": "Вив",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kholodnyans'ke": {
+        "translated_name": "Kholodnyans'ke",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Khorishky": {
+        "translated_name": "Хоришки",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Halushchyna Hreblya": {
+        "translated_name": "Halushchyna Hreblya",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Shpola": {
+        "translated_name": "Шпола",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Ukrainka": {
+        "translated_name": "Украинская женщина",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Rivne": {
+        "translated_name": "Rivne",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Pantaziivka": {
+        "translated_name": "Пантазиевка",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "P'yatyhory": {
+        "translated_name": "Пятигоры",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Shlyakhova": {
+        "translated_name": "Шляхова",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Chyhyryn": {
+        "translated_name": "Chyhyryn",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Tudorkovychi": {
+        "translated_name": "Тюдоры",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    " Cherkasy": {
+        "translated_name": "Cherkasy",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Koseniv": {
+        "translated_name": "Косенив",
+        "region": "Центральная Украина",
+        "oblast": ""
+    },
+    "Kharkiv": {
+        "translated_name": "Харьков",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Nikopol": {
+        "translated_name": "Никополь",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Dnipro": {
+        "translated_name": "Днепр",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Dnipropetrovsk region.": {
+        "translated_name": "Днепропетровская область.",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Novomoskovs'k": {
+        "translated_name": "Новомосковск",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Slov'yans'k": {
+        "translated_name": "Slov'yans'k",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kryvyi Rih": {
+        "translated_name": "Кривой Риг",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Zaporizhia": {
+        "translated_name": "Запорожье",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lozova": {
+        "translated_name": "Lozova",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kostyantynivka": {
+        "translated_name": "Kostyantynivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Slobozhanske": {
+        "translated_name": "Slobozhanske",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Vasyshcheve": {
+        "translated_name": "Vasyshcheve",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Konotop": {
+        "translated_name": "Конотоп",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pokrovs'k": {
+        "translated_name": "Покровск",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pavlohrad": {
+        "translated_name": "Павлоград",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Synel'nykove": {
+        "translated_name": "Синельниково",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Podvirky": {
+        "translated_name": "Подворки",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Horyanivs'ke": {
+        "translated_name": "Горянива",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Ocheretuvate": {
+        "translated_name": "Очеретувате",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Semenivka": {
+        "translated_name": "Семеновка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Zasullya": {
+        "translated_name": "Zasullya",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Pyriatyn": {
+        "translated_name": "я постараюсь",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Pryluky": {
+        "translated_name": "Pryluky",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Nizhyn": {
+        "translated_name": "Низин",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Kozelets'": {
+        "translated_name": "Козелец",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Onufriivka": {
+        "translated_name": "Онуфриевка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Horishni Plavni": {
+        "translated_name": "Горишние Плавни",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Svitlovodsk": {
+        "translated_name": "Светловодск",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Chyhyryn": {
+        "translated_name": "Chyhyryn",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kramatorsk": {
+        "translated_name": "Краматорск",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Velyki Budyshcha": {
+        "translated_name": "Velyki Budyshcha",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Partyzans'ke": {
+        "translated_name": "Партизан",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Solonytsivka": {
+        "translated_name": "Солоныцевка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Novoolenivka": {
+        "translated_name": "Новый олень",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Starovyshnevets'ke": {
+        "translated_name": "Starovyshnevets'ke",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Budy": {
+        "translated_name": "Буди",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Yasenove": {
+        "translated_name": "Ясеново",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Sribne": {
+        "translated_name": "Sribne",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pivdenne": {
+        "translated_name": "Южное",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Petropavlivka": {
+        "translated_name": "Петропавловка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pershotravens'k": {
+        "translated_name": "Pershotravens'k",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Apostolove": {
+        "translated_name": "Апостолове",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pjatihatki": {
+        "translated_name": "Пятихатки",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Zhovti Vody": {
+        "translated_name": "Жовти Воды",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pervomais'kyi": {
+        "translated_name": "Первомайский",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Balakliya": {
+        "translated_name": "Балаклея",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Zmiiv": {
+        "translated_name": "Zmiiv",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pisochyn": {
+        "translated_name": "Pischin",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Medvedivka": {
+        "translated_name": "Medvedivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pokrov": {
+        "translated_name": "Крышка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Staryi Saltiv": {
+        "translated_name": "Staryi Saltiv",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Barvinkove": {
+        "translated_name": "Барвинкова",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "P'yatyhirs'ke": {
+        "translated_name": "Пятигорское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Shevchenkove": {
+        "translated_name": "Шевченковское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Velykyi Burluk": {
+        "translated_name": "Velykyi Burluk",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Novyi Myr": {
+        "translated_name": "Новый Myr",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Zolochiv": {
+        "translated_name": "Zolochiv",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Vil'nohirs'k": {
+        "translated_name": "Вольногорск",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Oleksandrivka": {
+        "translated_name": "Олександривка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kamenskoe": {
+        "translated_name": "Каменское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Uzhhorod": {
+        "translated_name": "Ужгород",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Apollonivka": {
+        "translated_name": "Аполлоновка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Shevchenko": {
+        "translated_name": "Шевченко",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Sviatovasylivka": {
+        "translated_name": "Святовасильевка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Krasnohrad": {
+        "translated_name": "Краснограды",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Yurchenkove": {
+        "translated_name": "Юрченково",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Malyi Burluk": {
+        "translated_name": "Malyi Burluk",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Merefa": {
+        "translated_name": "Мерефа",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lykhivka": {
+        "translated_name": "Lykhivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Shyroke": {
+        "translated_name": "Shyroke",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Oleksandrivka": {
+        "translated_name": "Олександривка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Zavods'ke": {
+        "translated_name": "Заводск",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Ivano-Mykhailivka": {
+        "translated_name": "Ivano-Myhailivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Synel'nykove": {
+        "translated_name": "Синельниково",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Chornukhy": {
+        "translated_name": "Chornukhy",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Balivka": {
+        "translated_name": "Баловка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pidhorodne": {
+        "translated_name": "Подгородное",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Solone": {
+        "translated_name": "Солон",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Mykolaivka": {
+        "translated_name": "Mykolaivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Marhanets": {
+        "translated_name": "Marhanets",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Dobropillya": {
+        "translated_name": "Dobropillya",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Pokrov": {
+        "translated_name": "Крышка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Chuhuiv": {
+        "translated_name": "Чугуев",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lyubotyn": {
+        "translated_name": "Люботин",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kotlyari": {
+        "translated_name": "Котляри",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Orzhytsya": {
+        "translated_name": "Orzhytsya",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Velykyi Burluk": {
+        "translated_name": "Velykyi Burluk",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Pidlyman": {
+        "translated_name": "Пидлиман",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Plishyvets": {
+        "translated_name": "Плешивец",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Skrypai": {
+        "translated_name": "Скрипас",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Hurbyntsi": {
+        "translated_name": "Гурбинцы",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Korolenkivka": {
+        "translated_name": "Korolenkivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Huliaipole": {
+        "translated_name": "Гуляйполе",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kruchyk": {
+        "translated_name": "Кручик",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lisna Stinka": {
+        "translated_name": "Лисна Стинка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Novoverbs'ke": {
+        "translated_name": "Нововербское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Tykhopillya": {
+        "translated_name": "Tykhopillya",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Proletars'ke": {
+        "translated_name": "Пролетарское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Apollonivka": {
+        "translated_name": "Аполлоновка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Novopokrovka": {
+        "translated_name": "Новопокровка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Mala Danylivka": {
+        "translated_name": "Mala Danylivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Starodobrovil's'ke": {
+        "translated_name": "Стародобровильское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Mahdalynivka": {
+        "translated_name": "Магдалиновка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Udachne": {
+        "translated_name": "Udachne",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Sokolove": {
+        "translated_name": "Соколово",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Ozera": {
+        "translated_name": "Ozera",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Verbky": {
+        "translated_name": "Глаголы",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Zaporizhia": {
+        "translated_name": "Запорожье",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Malynivka": {
+        "translated_name": "Малиновка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Nadtochii": {
+        "translated_name": "Надточий",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Derhachi": {
+        "translated_name": "Дергачи",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lypkuvativka": {
+        "translated_name": "Липкуватовка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Buhaivka": {
+        "translated_name": "Бугаевка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Izyum": {
+        "translated_name": "Исиум",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Chervonohryhorivka": {
+        "translated_name": "Херсоногригоривец",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lypove": {
+        "translated_name": "Липове",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Rzhavchyk": {
+        "translated_name": "Rzhavchyk",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Loboikivka": {
+        "translated_name": "Лобойковка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Ternivka": {
+        "translated_name": "Терновка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Bilen'ke": {
+        "translated_name": "Биленьке",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Dniprovka": {
+        "translated_name": "Днепровка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Netesivka": {
+        "translated_name": "Нетесовка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Slavhorod": {
+        "translated_name": "Славгород",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Andriivka": {
+        "translated_name": "Андриевка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "New Korotich": {
+        "translated_name": "Новый Коротич",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Bilen'ke Pershe": {
+        "translated_name": "Беленькое Перше",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Bilen'ke Pershe": {
+        "translated_name": "Беленькое Перше",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Tomakivka": {
+        "translated_name": "Томаковка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Natalyne": {
+        "translated_name": "Наталин",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Dniprovs'ke": {
+        "translated_name": "Днепровское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Zubani": {
+        "translated_name": "разговорный",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Петровское": {
+        "translated_name": "Петровское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kharkiv region.": {
+        "translated_name": "Kharkiv region.",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Karavan": {
+        "translated_name": "Караван",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kotel'va": {
+        "translated_name": "Kotel'va",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Vasyshcheve": {
+        "translated_name": "Vasyshcheve",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Zarih": {
+        "translated_name": "Зарих",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Vil'nyans'k": {
+        "translated_name": "Вильнянск",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Korobochkyne": {
+        "translated_name": "Korobochkyne",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Ustyvytsya": {
+        "translated_name": "Устают",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Novooleksandrivka": {
+        "translated_name": "Новоалександровка",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Tsyrkuny": {
+        "translated_name": "Tsyrkuny",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Шестаково": {
+        "translated_name": "Шестаково",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Mezhyrich": {
+        "translated_name": "Межирич",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Demuryne": {
+        "translated_name": "Демурин",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Reshetylivka": {
+        "translated_name": "Reshetylivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Sumy region.": {
+        "translated_name": "Sumy region.",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Donetsk region.": {
+        "translated_name": "Донецкая область.",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Druzhkivka": {
+        "translated_name": "Druzhkivka",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Chumaky": {
+        "translated_name": "Chumaky",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Valky": {
+        "translated_name": "Valky",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lukasheve": {
+        "translated_name": "Лукашев",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Marynopil'": {
+        "translated_name": "Маринополь",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Horbani": {
+        "translated_name": "Горбани",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Kolomak": {
+        "translated_name": "голуби",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    " Kamenskoe": {
+        "translated_name": "Каменское",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Khortytsia": {
+        "translated_name": "Хортиция",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Lyman": {
+        "translated_name": "Лиман",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Dubove": {
+        "translated_name": "Дубовое",
+        "region": "Восточная Украина",
+        "oblast": ""
+    },
+    "Rudivka": {
+        "translated_name": "Рудивка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Buryn": {
+        "translated_name": "Нос",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Chernihiv": {
+        "translated_name": "Чернихив",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Lynovytsya": {
+        "translated_name": "Линовица",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Pryluky": {
+        "translated_name": "Pryluky",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Nizhyn": {
+        "translated_name": "Низин",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Koriukivka": {
+        "translated_name": "Корюковка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Krolevets": {
+        "translated_name": "Кролеветт",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Voznesens'ke": {
+        "translated_name": "Женщины Вознесения",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Shostka": {
+        "translated_name": "Shostka",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Torf'yane": {
+        "translated_name": "Торфьяне",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Shamraivka": {
+        "translated_name": "Шамраевка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Mena": {
+        "translated_name": "Мена",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Romny": {
+        "translated_name": "Ромны",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Borzna": {
+        "translated_name": "Фондовая биржа",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Chornohorodka": {
+        "translated_name": "Chornohorodka",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Hnidyntsi": {
+        "translated_name": "Hnidyntsi",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Horenychi": {
+        "translated_name": "Гореничи",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Besedovka": {
+        "translated_name": "Besedovka",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Voronizh": {
+        "translated_name": "Воронеж",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Reutyntsi": {
+        "translated_name": "Реутинцы",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Honcharivs'ke": {
+        "translated_name": "Гончаровское",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Lebedyn": {
+        "translated_name": "Lebedyn",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Romny": {
+        "translated_name": "Ромны",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Ternopil": {
+        "translated_name": "Ternopil",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Kozelets'": {
+        "translated_name": "Козелец",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Hnidyn": {
+        "translated_name": "Нидынь",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Rudnevo": {
+        "translated_name": "Rudnevo",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Bakhmach": {
+        "translated_name": "Бахмач",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Okhtyrka": {
+        "translated_name": "Ахтырка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Putivl": {
+        "translated_name": "Putivl",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Pryputni": {
+        "translated_name": "Припутни",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Horodnya": {
+        "translated_name": "Хородня",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Kovtunivka": {
+        "translated_name": "Ковтуновка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Rubanka": {
+        "translated_name": "Рубанка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Kropyvne": {
+        "translated_name": "Kropyvne",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Nedryhailiv": {
+        "translated_name": "Nedryhailiv",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Tetiiv": {
+        "translated_name": "Тетива",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Lisky": {
+        "translated_name": "Лиски",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Lisnyky": {
+        "translated_name": "Лисники",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Osoivka": {
+        "translated_name": "Осоевка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Novhorod-Siverskyi": {
+        "translated_name": "Новогород-Сиверский",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Ryabtsi": {
+        "translated_name": "Рябцы",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Sviatopetrivske": {
+        "translated_name": "Святопетровское",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Partyzans'ke": {
+        "translated_name": "Партизан",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Biloshapky": {
+        "translated_name": "Белошапки",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Chernecha Sloboda": {
+        "translated_name": "Chernecha Sloboda",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Ripky": {
+        "translated_name": "Ребрышки",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Yagidne": {
+        "translated_name": "Ягидное",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Hlukhiv": {
+        "translated_name": "Hlukhiv",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Vikhove": {
+        "translated_name": "Вихов",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Brusyliv": {
+        "translated_name": "Brusyliv",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Lyshnya": {
+        "translated_name": "Lyshnya",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Verkhosulka": {
+        "translated_name": "Verkhosulka",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Stets'kivka": {
+        "translated_name": "Стецьковка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Pysarivka": {
+        "translated_name": "Pysarivka",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Sakhutivka": {
+        "translated_name": "Мы убежали",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Kunashivka": {
+        "translated_name": "Кунашовка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Velykyi Sambir": {
+        "translated_name": "Великий Самбир",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Haivoron": {
+        "translated_name": "Гайворон",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Andriyashivka": {
+        "translated_name": "Андреяшевка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Trostyanets": {
+        "translated_name": "Trostyanets",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Kyiv region.": {
+        "translated_name": "Киевская область.",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Ichnia": {
+        "translated_name": "Ичня",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Rzhyshchiv": {
+        "translated_name": "Ржищев",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Khotynivka": {
+        "translated_name": "Хотиновка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Sataniv": {
+        "translated_name": "Сатанив",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Altynivka": {
+        "translated_name": "Алтыновка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Lyzunivka": {
+        "translated_name": "Лизуновка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Masheve": {
+        "translated_name": "Массы",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Kolonshchyna": {
+        "translated_name": "Колонщина",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Velykyi Sambir": {
+        "translated_name": "Великий Самбир",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Sakhny": {
+        "translated_name": "Сахны",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Plysky": {
+        "translated_name": "Плиски",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Stoyanka": {
+        "translated_name": "Стоянка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Mytchenky": {
+        "translated_name": "Мытченки",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Chornotychi": {
+        "translated_name": "Chornotychi",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Krasnyi Kolyadyn": {
+        "translated_name": "Красный Колядин",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Dmytrivka": {
+        "translated_name": "Дмитривка",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Spirne": {
+        "translated_name": "Spirne",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    " Yamne": {
+        "translated_name": "Yamne",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Pishchane": {
+        "translated_name": "Pishchane",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Bihach": {
+        "translated_name": "Животное",
+        "region": "Северная Украина",
+        "oblast": ""
+    },
+    "Mykolaiv": {
+        "translated_name": "Mykolaiv",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Izmail": {
+        "translated_name": "Izmail",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Ilichanka": {
+        "translated_name": "Ilichanka",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Marynivka": {
+        "translated_name": "Мариновка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kuchurhan": {
+        "translated_name": "Кучурхан",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Balta": {
+        "translated_name": "Белый",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Horodnje": {
+        "translated_name": "Городне",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kovalivka": {
+        "translated_name": "Kovalivka",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Savran'": {
+        "translated_name": "Саврань",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kherson": {
+        "translated_name": "Херсон",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Balabyne": {
+        "translated_name": "Балабайн",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Sychavka": {
+        "translated_name": "Sychavka",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Pervomaisk": {
+        "translated_name": "Первомайск",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kryve Ozero": {
+        "translated_name": "Kryve Ozero",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Yuzhne": {
+        "translated_name": "Южный",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Radisne": {
+        "translated_name": "Radisne",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Voznesensk": {
+        "translated_name": "Вознесенск",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Vyzyrka": {
+        "translated_name": "Вызырка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Teplodar": {
+        "translated_name": "Жарко",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Nerubais'ke": {
+        "translated_name": "Нерубайское",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Orlivka": {
+        "translated_name": "Орловка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Yeremiivka": {
+        "translated_name": "Yeremiivka",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    " Posad-Pokrovs'ke": {
+        "translated_name": "Посад-Покровское",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    " Nova Odesa": {
+        "translated_name": "Новая Одесса",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Stepanivka": {
+        "translated_name": "Степановка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Posad-Pokrovs'ke": {
+        "translated_name": "Посад-Покровское",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Artsyz": {
+        "translated_name": "Арциз",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Bolhrad": {
+        "translated_name": "Болград",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Zatyshshya": {
+        "translated_name": "Zatyshshya",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Chornomors'k": {
+        "translated_name": "Черноморск",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Starosillya": {
+        "translated_name": "Староселье",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Odessa (Port)": {
+        "translated_name": "Одесса (Порт)",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Novokaterynivka": {
+        "translated_name": "Novokaterynivka",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Borozens'ke": {
+        "translated_name": "Борозенское",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Buz'ke": {
+        "translated_name": "Бузке",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Tatarbunary": {
+        "translated_name": "Татарбунары",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kulindorovo": {
+        "translated_name": "Кулиндорово",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Novi Bilyari": {
+        "translated_name": "Новые Биляры",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Molodizhne": {
+        "translated_name": "Молодежное",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Solonchaky": {
+        "translated_name": "Солончаки",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Stanislavka": {
+        "translated_name": "Станиславка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    " Yuzhne": {
+        "translated_name": "Южный",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Orlove": {
+        "translated_name": "Иглз",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kiliya": {
+        "translated_name": "Стоянка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Yuzhnoukrains'k": {
+        "translated_name": "Южноукраинск",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kolosivka": {
+        "translated_name": "Kolosivka",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Яски": {
+        "translated_name": "Яски",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Bilozerka": {
+        "translated_name": "Белозерка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Domanevka": {
+        "translated_name": "Доманевка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Prybuz'ke": {
+        "translated_name": "Прибузское",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Kubei": {
+        "translated_name": "Кубей",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Cherneche": {
+        "translated_name": "Cherneche",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Bilyne": {
+        "translated_name": "Билин",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Snihurivka": {
+        "translated_name": "Снигуровка",
+        "region": "Южная Украина",
+        "oblast": ""
+    },
+    "Orlyntsi": {
+        "translated_name": "Орлинцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zhovkva": {
+        "translated_name": "Жовква",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dubrovytsya": {
+        "translated_name": "Дубровица",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tumen'": {
+        "translated_name": "тумень",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Shepetivka": {
+        "translated_name": "Шепетовка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Khmelnytskyi": {
+        "translated_name": "Хмельницкий",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Berezne": {
+        "translated_name": "Berezne",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Korets'": {
+        "translated_name": "хор",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Hoshcha": {
+        "translated_name": "Гоща",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sosnove": {
+        "translated_name": "Сосново",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chernivtsi": {
+        "translated_name": "Чернивцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Balinovka": {
+        "translated_name": "Балиновка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Humeniv": {
+        "translated_name": "Humeniv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rivky": {
+        "translated_name": "Ривки",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bilohir'ya": {
+        "translated_name": "Белогорье",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chesnyky": {
+        "translated_name": "Чешники",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Shpaniv": {
+        "translated_name": "Спанив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zbarazh": {
+        "translated_name": "Збараж",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Polonne": {
+        "translated_name": "поляки",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nova Ushytsya": {
+        "translated_name": "Nova Ushytsya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Murowana": {
+        "translated_name": "Кирпич",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Smyga": {
+        "translated_name": "Красться",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mykhalyn": {
+        "translated_name": "Михалин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chortkiv": {
+        "translated_name": "Чортков",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Shchyrets'": {
+        "translated_name": "Shchyrets'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ternopil": {
+        "translated_name": "Ternopil",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Malekhiv": {
+        "translated_name": "Малехов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Broshniv-Osada": {
+        "translated_name": "Broshniv-Osada",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mylyatychi": {
+        "translated_name": "Mylyatychi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bukovel": {
+        "translated_name": "Буковель",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Pustomyty": {
+        "translated_name": "Pustomyty",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vynohradiv": {
+        "translated_name": "Новоградив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chervonohrad": {
+        "translated_name": "Херсоноград",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Luts'k": {
+        "translated_name": "Луцк",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "L'viv": {
+        "translated_name": "Вив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Island": {
+        "translated_name": "Остров",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Yamnytsya": {
+        "translated_name": "Yamnytsya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Irshava": {
+        "translated_name": "Иршава",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kovel'": {
+        "translated_name": "Kovel'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Burshtyn": {
+        "translated_name": "Бурштын",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kozova": {
+        "translated_name": "Козова",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Burtyn": {
+        "translated_name": "Буртин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Konyatyn": {
+        "translated_name": "Конятин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vyshkovo": {
+        "translated_name": "Вышково",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nadvirna": {
+        "translated_name": "Надворная",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Chernivtsi": {
+        "translated_name": "Чернивцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mostys'ka Druha": {
+        "translated_name": "Мостышка Druhа",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Haivoronka": {
+        "translated_name": "Гайворонка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Halushchyntsi": {
+        "translated_name": "Halushchyntsi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Borshchiv": {
+        "translated_name": "Borshchiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Hrytsiv": {
+        "translated_name": "Грицив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Ovruch": {
+        "translated_name": "Овруч",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Krasyliv": {
+        "translated_name": "Krasyliv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Volochysk": {
+        "translated_name": "Волочиск",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velyke Kolodno": {
+        "translated_name": "Большой Колодно",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zalukva": {
+        "translated_name": "Залуква",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Yakubiv": {
+        "translated_name": "Якубив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lysets'": {
+        "translated_name": "свет",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Milijeve": {
+        "translated_name": "Милиев",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lyuboml'": {
+        "translated_name": "Любомль",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mykulyn": {
+        "translated_name": "Микулин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Stara Synyavka": {
+        "translated_name": "Stara Synyavka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chernelivka": {
+        "translated_name": "Chernelivka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Chornyi Ostriv": {
+        "translated_name": "Chornyi Ostriv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mykulychyn": {
+        "translated_name": "Микуличин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Letichev": {
+        "translated_name": "Летичев",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Solobkivtsi": {
+        "translated_name": "Солобковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Markov": {
+        "translated_name": "Марков",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Luhy": {
+        "translated_name": "Ликер",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mukachevo": {
+        "translated_name": "Мукачево",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velykyi Lyubin'": {
+        "translated_name": "Великий Любин'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Novovolynsk": {
+        "translated_name": "Нововолынск",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Morshyn": {
+        "translated_name": "Моршин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velykyi Doroshiv": {
+        "translated_name": "Великий Дорозив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Starokostiantyniv": {
+        "translated_name": "Starokostiantyniv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kalush": {
+        "translated_name": "Kalush",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Solovychi": {
+        "translated_name": "Соловычи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Stryi": {
+        "translated_name": "Stryi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nedoboivtsi": {
+        "translated_name": "Недобоевцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rozhniv": {
+        "translated_name": "Рожнив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mahala": {
+        "translated_name": "Бесплатно",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kuty": {
+        "translated_name": "Куты",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Berezove": {
+        "translated_name": "Березов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zarubyntsi": {
+        "translated_name": "Зарубинцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Yezupil'": {
+        "translated_name": "Иисус",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mostys'ka": {
+        "translated_name": "Mostys'ka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Prokhid": {
+        "translated_name": "Prokhid",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Snyatyn": {
+        "translated_name": "Snyatyn",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nyzhni Stanivtsi": {
+        "translated_name": "Нижний Stanivtsi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vynnyky": {
+        "translated_name": "Вынныки",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velyki Hai": {
+        "translated_name": "Velyki Hai",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Horodok": {
+        "translated_name": "Хородок",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nikolayev": {
+        "translated_name": "Николаев",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Volodymyr": {
+        "translated_name": "Volodymyr",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Berezhany": {
+        "translated_name": "Berezhany",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Perebykivtsi": {
+        "translated_name": "Perebykivtsi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vil'khovets'": {
+        "translated_name": "Вильховец",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dunaivtsi": {
+        "translated_name": "Дунаевцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Uzhhorod": {
+        "translated_name": "Ужгород",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Teresva": {
+        "translated_name": "Тересва",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Manevychi": {
+        "translated_name": "Маневичи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Stanivtsi": {
+        "translated_name": "Становцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Truskavets": {
+        "translated_name": "Truskavets",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velyki Hlibovychi": {
+        "translated_name": "Velyki Hlibovichi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bibrka": {
+        "translated_name": "Бибрка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kolomyia": {
+        "translated_name": "Коломыя",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Pistyn'": {
+        "translated_name": "трасса'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Khotyn": {
+        "translated_name": "Хотин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Klesiv": {
+        "translated_name": "По убыванию",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Serednii Maidan": {
+        "translated_name": "Средней Маидан",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vil'khivtsi": {
+        "translated_name": "Вильховцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lazeshchyna": {
+        "translated_name": "Lazeshchyna",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Halych": {
+        "translated_name": "Галич",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Khotyn": {
+        "translated_name": "Хотин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Staryi Sambir": {
+        "translated_name": "Staryi Sambir",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bryukhovychi": {
+        "translated_name": "Bryukhovychi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kremenets": {
+        "translated_name": "Кременетс",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vyshnivets'": {
+        "translated_name": "Вышнивиты'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vin'kivtsi": {
+        "translated_name": "Виньковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dubno": {
+        "translated_name": "Dubno",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Yaremche": {
+        "translated_name": "Yaremche",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sedlyshche": {
+        "translated_name": "Sedlyshche",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Brody": {
+        "translated_name": "Броди",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bolekhivtsi": {
+        "translated_name": "Болеховцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Falemychi": {
+        "translated_name": "Фалемычи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rozdil": {
+        "translated_name": "Разница",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Khust": {
+        "translated_name": "Khust",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Manyava": {
+        "translated_name": "манява",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Зирне": {
+        "translated_name": "Зирне",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Berehove": {
+        "translated_name": "Берегово",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kolodne": {
+        "translated_name": "Колодное",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kustyn": {
+        "translated_name": "Кустынь",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ulashkivtsi": {
+        "translated_name": "Улашковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zorya": {
+        "translated_name": "Зорья",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dubliany": {
+        "translated_name": "Дубляны",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bushtyno": {
+        "translated_name": "Буштыно",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Varash": {
+        "translated_name": "Вараш",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zabolotiv": {
+        "translated_name": "Zabolotiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Yasinya": {
+        "translated_name": "Он подписал",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Хутор-Будилов": {
+        "translated_name": "Хутор-Будилов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sernyky": {
+        "translated_name": "Серники",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bronne": {
+        "translated_name": "Источники",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Volytsya-Kerekeshyna": {
+        "translated_name": "Volytsya-Kerekeshyna",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Torchyn": {
+        "translated_name": "Торчин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sarny": {
+        "translated_name": "Олень",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Terebovlya": {
+        "translated_name": "Теребовля",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Buchach": {
+        "translated_name": "Бучач",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kivertsi": {
+        "translated_name": "Киверцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kostopil": {
+        "translated_name": "Kostopil",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Raikivtsi": {
+        "translated_name": "Райковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Klymentovychi": {
+        "translated_name": "Климентовичи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Izyaslav": {
+        "translated_name": "Изяслав",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Poninka": {
+        "translated_name": "Понинка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Staryi Lysets'": {
+        "translated_name": "Старый Лисец",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bedevlya": {
+        "translated_name": "Бедевля",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rozivka": {
+        "translated_name": "Эстроген",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Solonka": {
+        "translated_name": "Солон",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velyki Mosty": {
+        "translated_name": "Velyki Mosty",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Onut": {
+        "translated_name": "Онуц",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Hlyboka": {
+        "translated_name": "Hlyboka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kudryntsi": {
+        "translated_name": "Кудринцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Probizhna": {
+        "translated_name": "Пробежная",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dolyna": {
+        "translated_name": "Долина",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Potochyshche": {
+        "translated_name": "Potochyshche",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Karajevychi": {
+        "translated_name": "Караевич",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zherebky": {
+        "translated_name": "Жеребки",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Humentsi": {
+        "translated_name": "Многие люди",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zhornys'ka": {
+        "translated_name": "Zhornys'ka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Radovychi": {
+        "translated_name": "Радовичи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kunyn": {
+        "translated_name": "Кунин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nadyby": {
+        "translated_name": "Надыбы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rynhach": {
+        "translated_name": "Рынгач",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Klivodyn": {
+        "translated_name": "Кливодин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Stavchany": {
+        "translated_name": "Ставчани",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Yavoriv": {
+        "translated_name": "Yavoriv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Kostopil": {
+        "translated_name": "Kostopil",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tlumach": {
+        "translated_name": "Tlumach",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Drohobych": {
+        "translated_name": "Drohobych",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bancheny": {
+        "translated_name": "Банчени",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sambir": {
+        "translated_name": "Sambir",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Skala-Podil's'ka": {
+        "translated_name": "Скала-Подольская",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ust'-Chorna": {
+        "translated_name": "Ust'-Chorna",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kuryany": {
+        "translated_name": "Курьяны",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sokal": {
+        "translated_name": "Сокаль",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Cenzhiv": {
+        "translated_name": "Cenzhiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Uhers'ko": {
+        "translated_name": "Угерсько",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kosivs'ka Polyana": {
+        "translated_name": "Kosivska Polyana",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nyzhnje Selyshche": {
+        "translated_name": "Nyzhnje Selyshche",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lidykhiv": {
+        "translated_name": "Lidykhiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zhydachiv": {
+        "translated_name": "Zhydachiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kariv": {
+        "translated_name": "Карив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kosov": {
+        "translated_name": "Косов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ostap'je": {
+        "translated_name": "Он исчез",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mechyshchiv": {
+        "translated_name": "Мечишчик",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Letichev": {
+        "translated_name": "Летичев",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vanchykivtsi": {
+        "translated_name": "Ванчиковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bus'k": {
+        "translated_name": "Куст",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Novoselytsya": {
+        "translated_name": "Novoselytsya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mokhnate": {
+        "translated_name": "Мохнат",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Radekhiv": {
+        "translated_name": "Радехов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lenkivtsi": {
+        "translated_name": "Ленковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Hertsa": {
+        "translated_name": "Герц",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Polyanytsya": {
+        "translated_name": "Polyanytsya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Pidvolochys'k": {
+        "translated_name": "Подволочиск",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mokvyn": {
+        "translated_name": "Моквин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ozyutychi": {
+        "translated_name": "Ozyutychi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Husyatyn": {
+        "translated_name": "Husyatyn",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zmiinets'": {
+        "translated_name": "Змиинец",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mamaivtsi": {
+        "translated_name": "Мамаевцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rakhiv": {
+        "translated_name": "Rakhiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Drohobych": {
+        "translated_name": "Drohobych",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Didyliv": {
+        "translated_name": "Дидылив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zheldets'": {
+        "translated_name": "Zheldets'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Turiis'k": {
+        "translated_name": "Турийск",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Strumivka": {
+        "translated_name": "Струмовка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nehivtsi": {
+        "translated_name": "Неховцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Horokhiv": {
+        "translated_name": "Horokhiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zabolottsi": {
+        "translated_name": "Заболотцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kamin'-Kashyrs'kyi": {
+        "translated_name": "Kamin'-Kashyrs'kyi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Turynka": {
+        "translated_name": "Туринка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Derazhnya": {
+        "translated_name": "Derazhnya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Boryslav": {
+        "translated_name": "Борыслав",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Mukachevo": {
+        "translated_name": "Мукачево",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Burdyakivtsi": {
+        "translated_name": "Бурдяковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rudnya-Noven'ka": {
+        "translated_name": "Rudnya-Noven'ka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Brody": {
+        "translated_name": "Броди",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bartativ": {
+        "translated_name": "Бартатив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Krekhiv": {
+        "translated_name": "Крехов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lyubeshiv": {
+        "translated_name": "Lyubeshiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Slavuta": {
+        "translated_name": "Славута",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Stoyaniv": {
+        "translated_name": "Stoyaniv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velyki Birky": {
+        "translated_name": "Velyki Birky",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zalishchyky": {
+        "translated_name": "Залещики",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Parkhomivtsi": {
+        "translated_name": "Пархомовцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Sokal": {
+        "translated_name": "Сокаль",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Myshiv": {
+        "translated_name": "Myshiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mlynivtsi": {
+        "translated_name": "Млыновцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bryshchi": {
+        "translated_name": "Bryshchi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Stara Vyzhivka": {
+        "translated_name": "Stara Vyzhivka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Horokhiv": {
+        "translated_name": "Horokhiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Hodovytsya": {
+        "translated_name": "Hodovytsya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nova Lyubomyrka": {
+        "translated_name": "Новая Любомирка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nahiryanka": {
+        "translated_name": "Нагорянка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kopanky": {
+        "translated_name": "Бутсы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chop": {
+        "translated_name": "Нарезать",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Hrymailiv": {
+        "translated_name": "Hrymailiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Domamorych": {
+        "translated_name": "домовладелец",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velykyi Bereznyi": {
+        "translated_name": "Великие Березные",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ratne": {
+        "translated_name": "военное время",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Khorosno": {
+        "translated_name": "Khorosno",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Strutin": {
+        "translated_name": "Струтин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lypyny": {
+        "translated_name": "Липины",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Demydivka": {
+        "translated_name": "Demydivka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lobachevka": {
+        "translated_name": "Лобачевка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tsyr": {
+        "translated_name": "Цыр",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dubivtsi": {
+        "translated_name": "Дубовцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kamianka-Buzka": {
+        "translated_name": "Каменка-Бузка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Krupets'": {
+        "translated_name": "Крупеты",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nosachevychi": {
+        "translated_name": "Носачевичи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Shats'k": {
+        "translated_name": "Шацк",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Smotrych": {
+        "translated_name": "Smotrych",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nepolokivtsi": {
+        "translated_name": "Неполоковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kitsman'": {
+        "translated_name": "Кицмань",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kyblyary": {
+        "translated_name": "Kyblyary",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rava-Rus'ka": {
+        "translated_name": "Рава-Русская",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chynadiiovo": {
+        "translated_name": "Чинадьево",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Yagodin": {
+        "translated_name": "Yagodin",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Perespa": {
+        "translated_name": "Perespa",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Delyatyn": {
+        "translated_name": "Delyatyn",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rozhnyativ": {
+        "translated_name": "Рождатив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zubyl'ne": {
+        "translated_name": "Zubyl'ne",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Staryi Kryvyn": {
+        "translated_name": "Старый Kryvyn",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zdolbuniv": {
+        "translated_name": "Здолбунов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Radyvyliv": {
+        "translated_name": "Radyvyliv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bohorodchany": {
+        "translated_name": "Богородчаны",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Prylbychi": {
+        "translated_name": "Щенки",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chyshky": {
+        "translated_name": "Chyshky",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sterche": {
+        "translated_name": "Навоз",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lviv region.": {
+        "translated_name": "Львовская область.",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tovsten'ke": {
+        "translated_name": "Tovsten'ke",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Volodymyr": {
+        "translated_name": "Volodymyr",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Kovel'": {
+        "translated_name": "Kovel'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Horodenka": {
+        "translated_name": "Городенка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velyki Mezhyrichi": {
+        "translated_name": "Велики Межеричи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ostrivets'": {
+        "translated_name": "Ostrivets'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ponykovytsya": {
+        "translated_name": "Пониковича",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tyachiv": {
+        "translated_name": "Тячев",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Slavna": {
+        "translated_name": "Известный",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Shayan": {
+        "translated_name": "Шаян",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lypivka": {
+        "translated_name": "Липовка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Svityaz'": {
+        "translated_name": "Svityaz'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Skole": {
+        "translated_name": "Школа",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lukiv": {
+        "translated_name": "Lukiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Kol'chyno": {
+        "translated_name": "Кольчино",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Netishyn": {
+        "translated_name": "Нетешин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Novoyavorivs'k": {
+        "translated_name": "Novoyavorivs'k",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chahor": {
+        "translated_name": "Чагор",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bochkivtsi": {
+        "translated_name": "Бочковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Hrozyntsi": {
+        "translated_name": "Грозинцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velykyi Omelyanyk": {
+        "translated_name": "Великий Омельяник",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Pidbirtsi": {
+        "translated_name": "Pidbirtsi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Zhydachiv": {
+        "translated_name": "Zhydachiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dobromyl'": {
+        "translated_name": "Добромиль",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Krasiv": {
+        "translated_name": "Krasiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Shehyni": {
+        "translated_name": "Шегины",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zhovnivka": {
+        "translated_name": "Жовновка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Studinka": {
+        "translated_name": "Студинка",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Turychky": {
+        "translated_name": "Турички",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Narkevychi": {
+        "translated_name": "Наркевичи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Teofipol'": {
+        "translated_name": "Теофиполь",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Verkhnje Syn'ovydne": {
+        "translated_name": "Verkhnje Syn'ovydne",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Skole": {
+        "translated_name": "Школа",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Slavs'ke": {
+        "translated_name": "Славское",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Volovets'": {
+        "translated_name": "Воловец",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Svalyava": {
+        "translated_name": "Свалява",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Zhdenijevo": {
+        "translated_name": "Ждениево",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Polytsi": {
+        "translated_name": "Полици",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Volytsya": {
+        "translated_name": "Volytsya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Lopatyn": {
+        "translated_name": "Лопатин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Syurte": {
+        "translated_name": "Syurte",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Khorostkiv": {
+        "translated_name": "Khorostkiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Torhanovychi": {
+        "translated_name": "Торхановичи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Chaikovychi": {
+        "translated_name": "Чайковичи",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Volytsya": {
+        "translated_name": "Volytsya",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tomashhorod": {
+        "translated_name": "Tomashhorod",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Serednje": {
+        "translated_name": "Середина",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vikno": {
+        "translated_name": "Vikno",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Klischivna": {
+        "translated_name": "Клищевна",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zamulintsy": {
+        "translated_name": "Zamulintsy",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Berezhnytsya": {
+        "translated_name": "Бережныца",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Terebleche": {
+        "translated_name": "Тереблех",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Volodymyrets'": {
+        "translated_name": "Владимирец",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Verkhnii Studenyi": {
+        "translated_name": "Verkhnii Studenyi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Pasichna": {
+        "translated_name": "Пасечная",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Velyka Palad'": {
+        "translated_name": "Velyka Palad'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zahvizdya": {
+        "translated_name": "Захвиждия",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zastavna": {
+        "translated_name": "Флагман",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Onokivtsi": {
+        "translated_name": "Оноковцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bortkiv": {
+        "translated_name": "Отрезать",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Myrne": {
+        "translated_name": "Myrne",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sokyrnytsya": {
+        "translated_name": "Сокирныца",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Druzhba": {
+        "translated_name": "Дружба",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nakonechne Druhe": {
+        "translated_name": "Наконец, Второй",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Krotoshyn": {
+        "translated_name": "Кротошин",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Volosyanka": {
+        "translated_name": "Volosyanka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Zavydche": {
+        "translated_name": "Завидче",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Stryi": {
+        "translated_name": "Stryi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zalissya Druhe": {
+        "translated_name": "Залистье второе",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Novovolynsk": {
+        "translated_name": "Нововолынск",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Horodok": {
+        "translated_name": "Хородок",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Berezets'": {
+        "translated_name": "Berezets'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    " Riasne-Russian": {
+        "translated_name": "Рясне-русский",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Luke": {
+        "translated_name": "Люк",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Bat'ovo": {
+        "translated_name": "Батьево",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tarakaniv": {
+        "translated_name": "Тараканов",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vysots'k": {
+        "translated_name": "Vysots'k",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Pisochna": {
+        "translated_name": "Песочная",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Staryi Oleksynets'": {
+        "translated_name": "Staryi Oleksynets'",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rozvadiv": {
+        "translated_name": "Я тебя люблю",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Komarno": {
+        "translated_name": "Комар",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Pluzhne": {
+        "translated_name": "Плужное",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Dorobratovo": {
+        "translated_name": "Доробратово",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Mal'chytsi": {
+        "translated_name": "Mal'chytsi",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Staryi Yarychiv": {
+        "translated_name": "Staryi Yarychiv",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Radcha": {
+        "translated_name": "Радха",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Tatariv": {
+        "translated_name": "Татаров",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Zarits'k": {
+        "translated_name": "Зарицк",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Il'nytsya": {
+        "translated_name": "Ильйныца",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Sukhivtsi": {
+        "translated_name": "Суховцы",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Stara Synyavka": {
+        "translated_name": "Stara Synyavka",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Novyi Yarychiv": {
+        "translated_name": "Новый Ярихив",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vidnyky": {
+        "translated_name": "Видники",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Nakvasha": {
+        "translated_name": "Накваша",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Vil'bivne": {
+        "translated_name": "Уиллбивен",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ternopil region.": {
+        "translated_name": "Ternopil region.",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Rivne region.": {
+        "translated_name": "Rivne region.",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Volyn region.": {
+        "translated_name": "Volyn region.",
+        "region": "Западная Украина",
+        "oblast": ""
+    },
+    "Ivano-Frankivsk region.": {
+        "translated_name": "Ивано-Франковская область.",
+        "region": "Западная Украина",
+        "oblast": ""
+    }
+}
